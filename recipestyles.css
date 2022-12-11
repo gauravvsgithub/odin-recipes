@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(240, 213, 163);
+    font-family: Arial;
+    color:brown;
+    font-family: Arial;
+    font-size: 18px;
+    width:500px;
+}
+h1, h3 {
+    color: rgb(255, 123, 0);
+}
+
+img {
+    height:250px;
+    width: auto;
+}
